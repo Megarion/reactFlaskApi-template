@@ -1,4 +1,4 @@
-# Flask + React API template
+# React + Flask API template
 [Original (with extra fixes and cleanups)](https://towardsdatascience.com/build-deploy-a-react-flask-app-47a89a5d17d9)
 
 # Instructions
