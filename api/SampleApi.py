@@ -1,6 +1,6 @@
 from flask_restful import Api, Resource, reqparse
 
-class Sample(Resource):
+class SampleApi(Resource):
     def get(self):
         data = {
             'resultStatus': 'SUCCESS',
